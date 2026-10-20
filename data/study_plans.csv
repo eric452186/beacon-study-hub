@@ -1,0 +1,21 @@
+plan_id,name,name_zh,aliases,category,duration_hours,price_twd,available,description_en,description_zh
+QD01,Quiet Desk 1-Hour Pass,安靜座位 1 小時券,"quiet 1h|one hour desk|安靜座位一小時|1小時券",quiet_desk,1,60,true,One reserved standard desk in the quiet zone for one hour.,安靜區標準座位一席使用 1 小時。
+QD03,Quiet Desk 3-Hour Pass,安靜座位 3 小時券,"quiet 3h|three hour desk|安靜座位三小時|3小時券",quiet_desk,3,150,true,One reserved standard desk in the quiet zone for three hours.,安靜區標準座位一席使用 3 小時。
+QD06,Quiet Desk 6-Hour Pass,安靜座位 6 小時券,"quiet 6h|six hour desk|安靜座位六小時|6小時券",quiet_desk,6,260,true,One reserved standard desk in the quiet zone for six hours.,安靜區標準座位一席使用 6 小時。
+QDAY,Quiet Desk Day Pass,安靜座位日票,"day pass|all day desk|一日券|日票",quiet_desk,14,360,true,One standard quiet-zone desk from opening until closing on the selected day.,指定日期營業時間內可使用安靜區標準座位一席。
+WS02,Window Seat 2-Hour Pass,窗邊座位 2 小時券,"window 2h|window desk|窗邊兩小時|窗邊座位",window_seat,2,140,true,One window-side desk with a reading lamp for two hours.,窗邊座位一席含閱讀燈使用 2 小時。
+WS04,Window Seat 4-Hour Pass,窗邊座位 4 小時券,"window 4h|window desk four hours|窗邊四小時",window_seat,4,250,true,One window-side desk with a reading lamp for four hours.,窗邊座位一席含閱讀燈使用 4 小時。
+WSDAY,Window Seat Day Pass,窗邊座位日票,"window day pass|all day window|窗邊日票",window_seat,14,420,true,One window-side desk from opening until closing on the selected day.,指定日期營業時間內可使用窗邊座位一席。
+FB01,Focus Booth 1-Hour Pass,專注艙 1 小時券,"booth 1h|focus pod|專注艙一小時|個人艙",focus_booth,1,110,true,One semi-enclosed individual focus booth for one hour.,半封閉式個人專注艙使用 1 小時。
+FB03,Focus Booth 3-Hour Pass,專注艙 3 小時券,"booth 3h|focus pod three hours|專注艙三小時",focus_booth,3,290,true,One semi-enclosed individual focus booth for three hours.,半封閉式個人專注艙使用 3 小時。
+FB06,Focus Booth 6-Hour Pass,專注艙 6 小時券,"booth 6h|focus pod six hours|專注艙六小時",focus_booth,6,520,false,One semi-enclosed individual focus booth for six hours; temporarily unavailable.,半封閉式個人專注艙使用 6 小時，目前暫停供應。
+MR01,Meeting Room 1-Hour Pass,小型會議室 1 小時券,"meeting room|small room|小會議室|會議室一小時",meeting_room,1,320,true,A meeting room for up to four people with a whiteboard for one hour.,最多 4 人使用的小型會議室，含白板，使用 1 小時。
+MR02,Meeting Room 2-Hour Pass,小型會議室 2 小時券,"meeting room 2h|small room two hours|小會議室兩小時",meeting_room,2,600,true,A meeting room for up to four people with a whiteboard for two hours.,最多 4 人使用的小型會議室，含白板，使用 2 小時。
+GR01,Group Study Room 1-Hour Pass,團體討論室 1 小時券,"group room|discussion room|團體討論室|討論室一小時",group_room,1,480,true,A discussion room for five to eight people with a display for one hour.,可供 5 至 8 人使用的團體討論室，含顯示器，使用 1 小時。
+GR02,Group Study Room 2-Hour Pass,團體討論室 2 小時券,"group room 2h|discussion room two hours|團體討論室兩小時",group_room,2,900,true,A discussion room for five to eight people with a display for two hours.,可供 5 至 8 人使用的團體討論室，含顯示器，使用 2 小時。
+NW03,Night Owl 3-Hour Pass,夜讀 3 小時券,"night pass|evening desk|夜讀券|晚間座位",special_pass,3,120,true,One standard desk for the final three opening hours from 19:00 to 22:00.,19:00–22:00 最後三個營業小時的標準座位一席。
+AM03,Early Bird 3-Hour Pass,晨讀 3 小時券,"morning pass|early desk|晨讀券|早晨座位",special_pass,3,120,true,One standard desk for the first three opening hours from 08:00 to 11:00.,08:00–11:00 前三個營業小時的標準座位一席。
+WK05,Quiet Desk 5-Visit Pack,安靜座位 5 次套票,"five visits|5 visit pack|五次套票|5次券",multi_visit,3,650,true,Five separate three-hour quiet-desk sessions; each calculation unit represents one complete five-visit pack.,包含 5 次、每次 3 小時的安靜座位；計價時一個單位代表一整組五次套票。
+WK10,Quiet Desk 10-Visit Pack,安靜座位 10 次套票,"ten visits|10 visit pack|十次套票|10次券",multi_visit,3,1200,true,Ten separate three-hour quiet-desk sessions; each calculation unit represents one complete ten-visit pack.,包含 10 次、每次 3 小時的安靜座位；計價時一個單位代表一整組十次套票。
+MT20,Monthly 20-Visit Pass,月享 20 次方案,"monthly pass|20 visits|月票|二十次方案",membership,6,2900,true,Twenty quiet-desk visits of up to six hours each within 30 days.,30 天內可使用 20 次安靜座位，每次最長 6 小時。
+UNLM,Monthly Unlimited Pass,月享不限次方案,"unlimited month|monthly unlimited|不限次月票|吃到飽",membership,14,4200,false,Unlimited standard quiet-desk entry for 30 days; new sales are temporarily paused.,30 天內不限次使用標準安靜座位，目前暫停新申辦。
