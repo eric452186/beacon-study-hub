@@ -171,10 +171,10 @@ beacon-study-hub/
 
 - [x] Add the public GitHub repository URL while keeping student details out of the public files.
 - [x] Add current screenshots for all four required conversations and the evaluation result.
-- [ ] Confirm the repository is public in a private/incognito browser window.
-- [ ] Confirm `.env`, API keys, and generated database files are absent from Git and Git history.
+- [x] Confirm the repository is public from an unauthenticated client.
+- [x] Confirm `.env`, API keys, and generated database files are absent from Git and Git history.
 - [x] Run at least 10 tool-choice tests and record the first and final scores in the PDF report.
-- [ ] Put the public GitHub URL on page 1 of the PDF report.
+- [x] Put the public GitHub URL on page 1 of the PDF report.
 
 ## Notes
 
